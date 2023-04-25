@@ -1,7 +1,6 @@
 
 # ANPR and Face Recognition System
 
-A brief description of what this project does and who it's for
 This repo contains the project for Kavach-2023 of team NaagShakti.
 
 ## Tech Stack
